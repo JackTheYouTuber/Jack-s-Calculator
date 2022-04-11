@@ -20,4 +20,8 @@ graphMathButton.grid(row=3,column=0)
 # Lable initalization
 mainLable.grid(row=0,column=0)
 
-root.mainloop()
+def main(arg=None):
+    root.mainloop()
+
+if __name__ == "__main__":
+    main()
