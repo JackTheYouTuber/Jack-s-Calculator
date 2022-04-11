@@ -1,0 +1,11 @@
+# Date Fromat DD/MM/YYYY
+
+LOG 1
+---------------
+Date: 11/4/2022
+Today I laid the foundation of the program. Later I will improve it even more.
+---------------
+END LOG 1
+
+
+
